@@ -1,0 +1,5 @@
+[
+  "tests/test_encrypt_text.py::TestText::test_basic",
+  "tests/test_encrypt_text.py::TestText::test_empty",
+  "tests/test_encrypt_text.py::TestText::test_type_error"
+]
